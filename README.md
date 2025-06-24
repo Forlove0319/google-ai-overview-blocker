@@ -36,3 +36,7 @@ MIT License — free to use, tweak, and share.
 ---
 
 Feel free to ⭐ the repo if it saved you from AI spam hell! 🚀
+
+---
+
+🍴 [Download script on greasyfork](https://greasyfork.org/ru/scripts/540601-google-ai-overview-blocker)
